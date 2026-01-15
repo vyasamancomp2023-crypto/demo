@@ -1,4 +1,4 @@
-print("hello")
+print("hello world")
 print("hello i am vs code ide")
 print("welcome to vscode")
 
