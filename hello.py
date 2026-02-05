@@ -7,3 +7,5 @@ b= 20
 print(a*b)
 
 print("the sum of 15 and 20 is ",a+b)
+
+print("everything done")
